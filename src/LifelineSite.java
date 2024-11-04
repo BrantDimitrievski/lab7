@@ -12,6 +12,6 @@ public class LifelineSite extends Site {
         double base = _units * _rate;
         double tax = base * TAX_RATE;
         return base + tax;
-        ///
+        /////
     }
 }
